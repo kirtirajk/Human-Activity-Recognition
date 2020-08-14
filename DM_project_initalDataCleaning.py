@@ -12,7 +12,7 @@ import numpy as np
 
 
 ## Cell which containes all the parameters
-folderPath = '/Users/nikunjgoel/Study/dataMining_2160/PAMAP2_Dataset/Protocol'
+folderPath = '/Users/kirtirajk/Study/dataMining_2160/PAMAP2_Dataset/Protocol'
 filePath = 'subject101.dat'
 
 
@@ -75,8 +75,8 @@ activity_ID
 
 
 ## Cell which containes all the parameters
-folderPath = '/Users/nikunjgoel/Study/dataMining_2160/PAMAP2_Dataset/Protocol/'
-outputFolderpath = '/Users/nikunjgoel/Study/dataMining_2160/PAMAP2_Dataset/'
+folderPath = '/Users/kirtirajk/Study/dataMining_2160/PAMAP2_Dataset/Protocol/'
+outputFolderpath = '/Users/kirtirajk/Study/dataMining_2160/PAMAP2_Dataset/'
 
 
 # In[3]:
